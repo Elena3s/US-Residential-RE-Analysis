@@ -3,10 +3,9 @@
 
 ## GOALS
 
-The goal of the project is to look for some characteristics and trends in the US residential real estate market between 2016 and the beginning of 2023. Among those are:
-- How property size influences its price
-- How property size affects how soon it sells
-- What the hottest markets in the US as of 2022 are
+The goal of the project is to look for some characteristics and trends in the US residential real estate market between 2016 and the beginning of 2023:
+- Can we predict the price of a property and the length of stay on the market based on the property size?
+- What the hottest and coolest markets are based on the share of properties with increased price and how fast properties sell?
 
 ## DATA SOURCE
 
